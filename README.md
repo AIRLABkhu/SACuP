@@ -13,6 +13,7 @@ Clone this Git repository.
 git clone https://github.com/AIRLABkhu/SACuP.git
 cd SACuP
 ```
+<!--
 ### Augmentation
 ```bash
 
@@ -25,3 +26,4 @@ cd SACuP
 ```bash
 
 ```
+-->
